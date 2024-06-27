@@ -3,4 +3,21 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  font-family: Arial, sans-serif; /* Optional: Set a default font */
+  color: white; /* Optional: Set a default text color for better contrast */
+  margin: 0; /* Remove default margin */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center; /* Center the text */
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 20px; /* Add some space between the title and the audio player */
 }
