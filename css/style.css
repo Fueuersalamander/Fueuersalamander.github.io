@@ -3,6 +3,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  filter: saturate(30%);
   font-family: Arial, sans-serif; /* Optional: Set a default font */
   color: white; /* Optional: Set a default text color for better contrast */
   margin: 0; /* Remove default margin */
@@ -18,6 +19,8 @@ body {
 }
 
 h1 {
-  font-size: 3em;
+  font-size: 5em;
+  font-family: "Times New Roman", Times, serif;
+  color: #fcba03;
   margin-bottom: 20px; /* Add some space between the title and the audio player */
 }
