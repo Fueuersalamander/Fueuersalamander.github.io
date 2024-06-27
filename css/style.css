@@ -19,8 +19,8 @@ body {
 }
 
 h1 {
-  font-size: 5em;
+  font-size: 8em;
   font-family: "Times New Roman", Times, serif;
-  color: #fcba03;
+  color: black;
   margin-bottom: 20px; /* Add some space between the title and the audio player */
 }
